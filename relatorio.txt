@@ -1,0 +1,11 @@
+
+Relatório – GitHub
+
+Este relatório tem como objetivo consolidar e aprofundar os conhecimentos adquiridos em aula sobre o uso do GitHub, uma ferramenta essencial para o controle de versões e a colaboração em projetos de desenvolvimento de software. Durante as atividades práticas, foi possível aprender a criar repositórios, organizar arquivos, realizar commits e enviar alterações para o repositório remoto, garantindo que todas as mudanças no projeto fossem registradas de forma segura e acessível. Além disso, o GitHub permite trabalhar de forma colaborativa, possibilitando que várias pessoas contribuam simultaneamente, façam revisões e mantenham o histórico completo do desenvolvimento. A prática dessas funções não só reforçou a compreensão teórica, mas também desenvolveu habilidades importantes de organização, planejamento e trabalho em equipe, mostrando a relevância do GitHub no contexto atual da programação e da gestão de projetos digitais. Essas experiências são fundamentais para preparar os estudantes para desafios reais no desenvolvimento de software e na integração de projetos colaborativos.
+
+
+
+
+https://github.com/Luann8988/luann_202511120.git
+
+
