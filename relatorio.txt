@@ -3,10 +3,33 @@ Relatório – GitHub
 
 Este relatório tem como objetivo consolidar e aprofundar os conhecimentos adquiridos em aula sobre o uso do GitHub, uma ferramenta essencial para o controle de versões e a colaboração em projetos de desenvolvimento de software. Durante as atividades práticas, foi possível aprender a criar repositórios, organizar arquivos, realizar commits e enviar alterações para o repositório remoto, garantindo que todas as mudanças no projeto fossem registradas de forma segura e acessível. Além disso, o GitHub permite trabalhar de forma colaborativa, possibilitando que várias pessoas contribuam simultaneamente, façam revisões e mantenham o histórico completo do desenvolvimento. A prática dessas funções não só reforçou a compreensão teórica, mas também desenvolveu habilidades importantes de organização, planejamento e trabalho em equipe, mostrando a relevância do GitHub no contexto atual da programação e da gestão de projetos digitais. Essas experiências são fundamentais para preparar os estudantes para desafios reais no desenvolvimento de software e na integração de projetos colaborativos.
 
+1.Acesse o site do GitHub
+Abra o navegador e vá até github.com .
 
+2. Clique em “Sign up” (Inscrever-se)
+Localize o botão de cadastro na página inicial e clique para iniciar o processo.
 
+3. Nome de usuário: este será seu identificador na plataforma;
+E-mail: use um e-mail ativo para confirmar sua conta e receber notificações;
+Senha: crie uma senha segura para proteger seu acesso.
+
+4. Confirme sua conta
+Siga as instruções enviadas para o seu e-mail para validar o cadastro.
+
+5. Escolha um plano
+O GitHub oferece:
+
+Plano gratuito: perfeito para iniciantes e pequenos projetos.
+Planos pagos: com recursos adicionais, ideais para equipes e profissionais avançados.
+Agora que você já sabe como criar sua conta, finalize o processo e comece a explorar o GitHub. Se já quiser fazer um repositório para armazenar seu projeto, então siga os passos logo abaixo. 
+
+Um repositório  é como uma pasta onde ficam armazenados todos os arquivos de um projeto. Ele pode incluir códigos, imagens, áudios e qualquer outro tipo de arquivo necessário para o desenvolvimento do projeto. No GitHub, você pode criar repositórios públicos ou privados, dependendo de como deseja compartilhar seu trabalho. Para criar um repositório, é necessário seguir alguns passos:
+
+Owner (Proprietário): seu nome de usuário ou o nome da sua organização;
+Repository name (Nome do repositório): escolha um nome descritivo;
+Descrição opcional: adicione uma breve explicação sobre o objetivo do repositório;
+Visibilidade: escolha entre Public (público) ou Private (privado).
 
 https://github.com/Luann8988/luann_202511120.git
-
 https://github.com/Luann8988/relatorio.git
 
